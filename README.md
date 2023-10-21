@@ -1,6 +1,6 @@
 # Food-Panda-App-Documentation🐼🍕
 
-![BANNER](https://github.com/SaadARazzaq/Food-Panda-App-Documentation/raw/main/README%20Banner.gif)
+![image](https://github.com/SaadARazzaq/Food-Panda-App-Documentation/assets/123338307/0ccf7d50-a942-44a8-a867-ec697e000678)
 
 Welcome to the **OUR** Food Panda App Software Requirements Specification (SRS) documentation. This document outlines the functional requirements and system modeling for the Food Panda App, a food ordering and delivery platform.
 
