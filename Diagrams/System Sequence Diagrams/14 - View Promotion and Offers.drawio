@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-10-21T12:47:43.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TeaGV12aq6wTN_mmzgFW" version="22.0.6" type="device">
+  <diagram name="Page-1" id="AEcvbRO6kXFtiSNqGrjC">
+    <mxGraphModel dx="875" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="420" as="sourcePoint" />
+            <mxPoint x="345" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;imageHeight=29;" vertex="1" parent="1">
+          <mxGeometry x="210" y="224" width="440" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-3" value=":System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="550" y="88" width="100" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="U7l1v0IS4-y38YHUDUNl-3">
+          <mxGeometry x="45" y="80" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="69" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="340" y="171" width="10" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="U7l1v0IS4-y38YHUDUNl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="210" as="sourcePoint" />
+            <mxPoint x="510" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-8" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="595" y="270" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-9" value="PromottionAndOffers(restaurant_name)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="178" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-10" value="Promotion Not Found" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="242.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="210" y="224" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-13" value="&lt;b&gt;ALT&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="224" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-14" value="InvalidPromotion" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218" y="272" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-15" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="593.5" y="354.5" as="sourcePoint" />
+            <mxPoint x="348.5" y="354.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-16" value="Promotion Displayed" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="403.75" y="329" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-18" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;X&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="423.01" width="27" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-19" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;X&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587" y="421.28999999999996" width="27" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-22" value="PromottionAndOffers(restaurant_name)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349" y="278.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7l1v0IS4-y38YHUDUNl-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351.5" y="310" as="sourcePoint" />
+            <mxPoint x="596.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
