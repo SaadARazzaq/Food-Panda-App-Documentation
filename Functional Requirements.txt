@@ -1,0 +1,14 @@
+👉 01 - User Registration
+👉 02 - User Login
+👉 03 - Search Restaurants
+👉 04 - Explore Menu
+👉 05 - Manage Cart
+👉 06 - Place Order
+👉 07 - Track Order
+👉 08 - Process Payments
+👉 09 - View Order History
+👉 10 - Rate and Review
+👉 11 - Manage Profile
+👉 12 - Access Customer Support
+👉 13 - Mark Favorite Restaurants
+👉 14 - View Promotions and Offers
