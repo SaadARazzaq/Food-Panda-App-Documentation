@@ -75,15 +75,15 @@ It is important to note that this SRS document may evolve over time as the proje
 Welcome to the list of collaborators for this project. We would like to acknowledge and thank the following individuals for their valuable contributions:
 
 1. **[Zaeem Muhammad Yaseen](https://github.com/ZaeemYaseen)** - [GitHub Profile](https://github.com/ZaeemYaseen)
-   - Role: Worked on `SRS Document`, `Activity Diagram`, `Data Flow diagram`.
+   - Role: Worked on `SRS Document`, `Activity Diagram`, `Data Flow diagram`, `Activity Bar Chart`, `Gantt Chart`.
    - Connect with him: [HERE](https://linkedin.com/in/zaeem-muhammad-yaseen-23211a229)
 
 2. **[Muhammad Wasif](https://github.com/wiznemm)** - [GitHub Profile](https://github.com/wiznemm)
-   - Role: Worked on `High Level Use Case`, `Expanded Cse Case`, `System Sequence Diagram`.
+   - Role: Worked on `High Level Use Case`, `Expanded Cse Case`, `System Sequence Diagram`, `Work Breakdown Structure`.
    - Connect with him: [HERE](https://www.linkedin.com/in/muhammad-wasif-191223245/)
 
 3. **[Saad Abdur Razzaq](https://github.com/SaadARazzaq)** - [GitHub Profile](https://github.com/SaadARazzaq)
-   - Role: Worked on `Use Case Diagram`, `Class Diagram`, `Sequence Diagram`.
+   - Role: Worked on `Use Case Diagram`, `Class Diagram`, `Sequence Diagram`, `Project Metrics and Analysis`.
    - Connect with him: [HERE](https://www.linkedin.com/in/saadarazzaq/)
 
 ## How to Contribute
